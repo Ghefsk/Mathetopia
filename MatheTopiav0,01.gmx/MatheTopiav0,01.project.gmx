@@ -8,13 +8,20 @@
   <sprites name="sprites">
     <sprite>sprites\spr_Test_Sprite</sprite>
     <sprite>sprites\s_test2</sprite>
+    <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\spr_Hus_test</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_test</object>
+    <object>objects\obj_Hus_On_Off_test</object>
     <object>objects\obj_Test_Object_2</object>
+    <object>objects\obj_Show_icon</object>
+    <object>objects\obj_Score_Test</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
